@@ -1,0 +1,7 @@
+{
+  "access_key_id": "2Yf07OCFC97Mu5Rp",
+  "access_key_secret": "aaqTnbBUkEUImVzLnQYxpjU5mJ8u6T",
+  "default_project": "doraemonzh_test",
+  "end_point": "http://service.odps.aliyun.com/api",
+  "tunnel_end_point": "http://dt.odps.aliyun.com"
+}
